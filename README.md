@@ -1,0 +1,2 @@
+# upowaznienia
+kontrola upowaznień
